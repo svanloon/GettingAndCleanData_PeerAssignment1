@@ -1,8 +1,10 @@
 # README
-This repo is part of Coursera's Getting and Cleaning Data for course assignment.  The main objective is to tidy the UCI HAR Dataset - [Original Description]((http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)) - [Original Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+This repo is part of Coursera's Getting and Cleaning Data for course assignment.  The main objective is to tidy the UCI HAR Dataset - [Original Description]((http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)) - [Original Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  This should be done in 5 steps.
+
+A description of the data is available at [codebook](CodeBook.md)
 
 
-
+#Steps
 1. Merges the training and the test sets to create one data set.
 
 ```r
