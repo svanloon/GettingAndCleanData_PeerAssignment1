@@ -8,10 +8,12 @@ The analysis can be run simplying by sourcing [run_analysis.R](run_analysis.R).
 source("run_analysis.R")
 ```
 
-This will produce 2 data frames and a file, which can be explored further
+This will produce a file and 2 data frames, which can be explored further
 
-1. "mergedActivityData" is a data.frame that contains the merged data for the test and training data.
+1. [tidy_data.txt](tidy_data.txt) is the generated file with a description of the columns available in the [CodeBook.md](CodeBook.md)
 
-2. The tidy_data is a data.frame that contains tidy data.
+2. "mergedActivityData" is a data.frame that contains the merged data for the test and training data.
 
-3. The [tidy_data.txt](tidy_data.txt) will be generated.  A description of the data is available in the [CodeBook.md](CodeBook.md)
+3. "tidy_data"" is a data.frame that contains tidy data.
+
+
