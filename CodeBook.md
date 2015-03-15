@@ -1,6 +1,6 @@
 # Code Book
 
-This describes the data columns and values for [tidy_data.txt](tidy_data.txt)
+This describes the data columns and values for [tidy_data.txt](tidy_data.txt).  See the [README.md](README.md) for how the data was produced.
 
 ## Columns
 
